@@ -4,89 +4,25 @@
          "name": "Donator",
          "price": "£1",
          "url": "https://www.patreon.com/join/chisvr/checkout?rid=1349135",
-         "packageRewards": [
-            {
-               "name": "Small amount for donating me as £1 a Monthly"
-            },
-            {
-               "name": "Discord Role: (PURPLE) Donator"
-            },
-            {
-               "name": "Get Access to VRChat VIP ROOM (NEED CONTACT CHISVR#7172 YOUR VRC NAME AND YOUR PAYMENT TRANSACTION ID AND PATREON USERNAME TO CONFIRM PATREON)"
-            },
-            {
-               "name": "Get 10 Crates fron Dixper Every £1 a Monthly (REQUIRES TWITCH ACCOUNT AND FOLLOWING CHISVR ON TWITCH)"
-            },
-            {
-               "name": "Get Access to Early Commands on our Discord BOT and help Debug Issues / Errors before Published"
-            }
-         ]
+         "packageRewards": "name": "Small amount for donating me as £1 a Monthly\n\nDiscord Role: (PURPLE) Donator\n\nGet Access to VRChat VIP ROOM (NEED CONTACT CHISVR#7172 YOUR VRC NAME AND YOUR PAYMENT TRANSACTION ID AND PATREON USERNAME TO CONFIRM PATREON)\n\nGet 10 Crates fron Dixper Every £1 a Monthly (REQUIRES TWITCH ACCOUNT AND FOLLOWING CHISVR ON TWITCH)\n\nGet Access to Early Commands on our Discord BOT and help Debug Issues / Errors before Published"
       },
       {
          "name": "Premium",
          "price": "£5",
          "url": "https://www.patreon.com/join/chisvr/checkout?rid=7239440",
-         "packageRewards": [
-            {
-               "name": "Small amount for donating me as £5 a Monthly"
-            },
-            {
-               "name": "Discord Role: (GREEN) Premium"
-            },
-            {
-               "name": "Get Access to VRChat VIP ROOM (NEED CONTACT CHISVR#7172 YOUR VRC NAME AND YOUR PAYMENT TRANSACTION ID AND PATREON USERNAME TO CONFIRM PATREON)"
-            },
-            {
-               "name": "Get 30 Crates fron Dixper Every £5 a Monthly (REQUIRES TWITCH ACCOUNT AND FOLLOWING CHISVR ON TWITCH)"
-            },
-            {
-               "name": "Get Access to Early Commands on our Discord BOT and help Debug Issues / Errors before Published"
-            }
-         ]
+         "packageRewards": "name": "Small amount for donating me as £5 a Monthly\n\nDiscord Role: (GREEN) Premium\n\nGet Access to VRChat VIP ROOM (NEED CONTACT CHISVR#7172 YOUR VRC NAME AND YOUR PAYMENT TRANSACTION ID AND PATREON USERNAME TO CONFIRM PATREON)\n\nGet 30 Crates fron Dixper Every £5 a Monthly (REQUIRES TWITCH ACCOUNT AND FOLLOWING CHISVR ON TWITCH)\n\nGet Access to Early Commands on our Discord BOT and help Debug Issues / Errors before Published"
       },
       {
          "name": "Legend",
          "price": "£10",
          "url": "https://www.patreon.com/join/chisvr/checkout?rid=7239442",
-         "packageRewards": [
-            {
-               "name": "Small amount for donating me as £10 a Monthly"
-            },
-            {
-               "name": "Discord Role: (ORANGE) Legend"
-            },
-            {
-               "name": "Get Access to VRChat VIP ROOM (NEED CONTACT CHISVR#7172 YOUR VRC NAME AND YOUR PAYMENT TRANSACTION ID AND PATREON USERNAME TO CONFIRM PATREON)"
-            },
-            {
-               "name": "Get 50 Crates fron Dixper Every £10 a Monthly (REQUIRES TWITCH ACCOUNT AND FOLLOWING CHISVR ON TWITCH)"
-            },
-            {
-               "name": "Get Access to Early Commands on our Discord BOT and help Debug Issues / Errors before Published"
-            }
-         ]
+         "packageRewards": "name": "Small amount for donating me as £10 a Monthly\n\nDiscord Role: (ORANGE) Legend\n\nGet Access to VRChat VIP ROOM (NEED CONTACT CHISVR#7172 YOUR VRC NAME AND YOUR PAYMENT TRANSACTION ID AND PATREON USERNAME TO CONFIRM PATREON)\n\nGet 50 Crates fron Dixper Every £10 a Monthly (REQUIRES TWITCH ACCOUNT AND FOLLOWING CHISVR ON TWITCH)\n\nGet Access to Early Commands on our Discord BOT and help Debug Issues / Errors before Published"
       },
       {
          "name": "MEGA",
          "price": "£15",
          "url": "https://www.patreon.com/join/chisvr/checkout?rid=7239446",
-         "packageRewards": [
-            {
-               "name": "Small amount for donating me as £15 a Monthly"
-            },
-            {
-               "name": "Discord Role: (RED) MEGA"
-            },
-            {
-               "name": "Get Access to VRChat VIP ROOM (NEED CONTACT CHISVR#7172 YOUR VRC NAME AND YOUR PAYMENT TRANSACTION ID AND PATREON USERNAME TO CONFIRM PATREON)"
-            },
-            {
-               "name": "Get 80 Crates fron Dixper Every £15 a Monthly (REQUIRES TWITCH ACCOUNT AND FOLLOWING CHISVR ON TWITCH)"
-            },
-            {
-               "name": "Get Access to Early Commands on our Discord BOT and help Debug Issues / Errors before Published"
-            }
-         ]
+         "packageRewards": "name": "Small amount for donating me as £15 a Monthly\n\nDiscord Role: (RED) MEGA\n\nGet Access to VRChat VIP ROOM (NEED CONTACT CHISVR#7172 YOUR VRC NAME AND YOUR PAYMENT TRANSACTION ID AND PATREON USERNAME TO CONFIRM PATREON)\n\nGet 80 Crates fron Dixper Every £15 a Monthly (REQUIRES TWITCH ACCOUNT AND FOLLOWING CHISVR ON TWITCH)\n\nGet Access to Early Commands on our Discord BOT and help Debug Issues / Errors before Published"
       }
    ],
 

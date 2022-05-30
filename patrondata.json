@@ -92,17 +92,17 @@
 
    "lists": [
       {
-         "discordName": "NAME#ID",
-         "discordID": "123456789123",
-         "twitchName": "NAME",
-         "vimmName": "NAME",
-         "glimeshName": "NAME",
-         "youtubeChannelID": "IDHERE",
-         "twitterName": "NAME",
-         "steamID64": "123464354354343",
-         "vrchatName": "NAME",
-         "hive": "NAME",
-         "blurt": ""
+         "discordName": "colin#5456",
+         "discordID": "711196981808332820",
+         "twitchName": "colin_5071",
+         "vimmName": null,
+         "glimeshName": null,
+         "youtubeChannelID": "UCQixGd-BWwx3ZBWlFwjYtwA",
+         "twitterName": "colin_5071",
+         "steamID64": null,
+         "vrchatName": "colin_5071",
+         "hive": null,
+         "blurt": null
       }
    ]
 }

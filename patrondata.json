@@ -27,17 +27,34 @@
    ],
    "lists":[
       {
-         "discordName":"colin#5456",
-         "discordID":"711196981808332820",
-         "twitchName":"colin_5071",
-         "vimmName":null,
-         "glimeshName":null,
-         "youtubeChannelID":"UCQixGd-BWwx3ZBWlFwjYtwA",
-         "twitterName":"colin_5071",
-         "steamID64":null,
-         "vrchatName":"colin_5071",
-         "hive":null,
-         "blurt":null
+         "isActive": true,
+         "tier": "Donator",
+         "discordName": "colin#5456",
+         "discordID": "711196981808332820",
+         "twitchName": "colin_5071",
+         "vimmName": null,
+         "glimeshName": null,
+         "youtubeChannelID": "UCQixGd-BWwx3ZBWlFwjYtwA",
+         "twitterName": "colin_5071",
+         "steamID64": null,
+         "vrchatName": "colin_5071",
+         "hive": null,
+         "blurt": null
+      },
+      {
+         "isActive": true,
+         "tier": "MEGA",
+         "discordName": "ChisVR#7172",
+         "discordID": "100463282099326976",
+         "twitchName":"ChisVR",
+         "vimmName": "chisdealhd",
+         "glimeshName": "ChisVR",
+         "youtubeChannelID": "UCPRy3c-fYJqblb1jFTTTV2w",
+         "twitterName": "ChisVROfficial",
+         "steamID64": null,
+         "vrchatName": "ChisVR",
+         "hive": "chisdealhd",
+         "blurt": "chisdealhd"
       }
    ]
 }
